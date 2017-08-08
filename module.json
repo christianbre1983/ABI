@@ -1,1 +1,15 @@
-1
+{
+    "id": "{45b2f760-f052-4020-b01d-b292430c0664}",
+    "name": "ABI",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Name1UnterstütztesGerät",
+        "Name2UnterstütztesGerät"
+    ],  
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ABC"
+}
