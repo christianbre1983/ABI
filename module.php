@@ -32,7 +32,7 @@
         *
         */
         public function MeineErsteEigeneFunktion() {
-            // Selbsterstellter Code
+            TEST
         }
     }
 ?>
